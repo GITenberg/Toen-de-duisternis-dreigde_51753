@@ -1,0 +1,27 @@
+_repo: Toen-de-duisternis-dreigde_51753
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flier, A. van der (Alida)
+    aliases:
+    - Flier, Alida van der
+    - Van der Flier, A. (Alida)
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '46539'
+    url: http://www.gutenberg.org/2009/agents/46539
+description: ''
+gutenberg_issued: '2016-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51753'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Toen de duisternis dreigde...
+url: http://www.gutenberg.org/ebooks/51753
